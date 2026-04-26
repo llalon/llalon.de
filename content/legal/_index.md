@@ -7,4 +7,4 @@ math:  false
 
 These policies may be updated at any time without notice. 
 
-For questions regarding them, you may contact `legal [at] llalon.de`.
+For questions regarding them, you may contact *legal [at] llalon.de*.

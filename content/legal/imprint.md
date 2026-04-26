@@ -11,4 +11,4 @@ L Lalonde \
 North Pole H0H 0H0 \
 Canada
 
-e-mail: legal@llalon.de
+e-mail: *legal [at] llalon.de*
