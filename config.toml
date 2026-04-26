@@ -20,7 +20,7 @@ relativeURLs = true
 	subtitle         = 'Blog & Musings of L Lalonde'
 	siteBasename     = 'L Lalonde'
 	copyright        = "L Lalonde"
-	copyrightYear    = "2025-2026"
+	copyrightYear    = "2025-2026" # for site in case there is no page date, not yet implemented
 
 	# --- Style tweaking ------------------------------
 
